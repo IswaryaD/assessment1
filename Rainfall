@@ -1,0 +1,21 @@
+interface RainfallCalculator {
+  /**
+  * Captures rain occured in the given region
+  * @param measure amount of rainfall in centi meters
+  * @param rainDate date on which rainfall measure is recorded
+  * @param pincode identifies the location of rainfall where this was recorded
+  */
+  void captureRain(Float measure, Date rainDate, String pincode);
+ {
+    max=0;
+ if(measure>max)
+{
+    rainfall=measure;
+    cout<<rainfall;
+}
+ RainfallRegion getRegionWithMaxRainfall(Date fromDate, Date toDate);
+{
+    max=10000;
+}
+
+ }
