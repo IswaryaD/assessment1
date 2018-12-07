@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<stdlib.h>
+String obfuscate(String input, Integer charOffset, Map<String, String> wordMap); 
+{
+   if(input==map<String,String>)
+     {
+	string=value;
+	cout<<string;
+      }
+   if(string==number)
+   {
+               string=number(charOffset);
+	cout<<string;
+   }
+else
+{
+	string=ascii(string)+2;
+ 	cout<<string;
+}
+}
